@@ -1,4 +1,4 @@
-## Hey 👋, I'm Amjad!
+## Hey 👋, I'm Amjad
 
 <a href="https://www.linkedin.com/in/amjad-baali/" target="_blank">
   <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
@@ -29,17 +29,60 @@ Most of my work is centered around Data Structures, Database Systems, and fundam
 
 ### 🔨 Languages and Tools:
 
-<a href="#" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="#" target="_blank"><img align="left" alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-<a href="#" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="#" target="_blank"><img align="left" alt="Assembly" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
-<a href="#" target="_blank"><img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="#" target="_blank"><img align="left" alt="Database" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+<a href="#" target="_blank">
+  <img align="left" alt="java" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" />
+</a>
+
+<a href="#" target="_blank">
+  <img align="left" alt="python" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" />
+</a>
+
+<a href="#" target="_blank">
+  <img align="left" alt="c" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" />
+</a>
+
+<a href="#" target="_blank">
+  <img align="left" alt="html" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" />
+</a>
+
+<a href="#" target="_blank">
+  <img align="left" alt="mysql" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" />
+</a>
+
+<a href="#" target="_blank">
+  <img align="left" alt="linux" height="42px"
+  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" />
+</a>
 
 <br>
 <br>
 <br>
+<br>
 
+### 🛠️ My Projects
+
+🔹 **Data Structures Implementation**  
+- Implemented Stacks, Queues, Linked Lists, Trees using Java and C  
+- Applied algorithmic problem-solving concepts  
+
+🔹 **Database System Project**  
+- Designed relational database schema  
+- Implemented SQL queries, joins, normalization  
+
+🔹 **HTML Web Project**  
+- Built structured semantic web pages  
+- Applied clean layout and structured markup  
+
+<br>
+
+### 📈 Career Objective
+
+Aspiring Software Developer seeking opportunities to apply strong foundational Computer Science knowledge in structured development environments and contribute to impactful technical projects.
 ### 🛠️ My Projects
 
 🔹 **Data Structures Implementation**  
