@@ -1,47 +1,61 @@
-## Hey 👋, I'm Amjad!
+## Hey 👋, I'm Amjad Baali!
 
-I am a final-year Computer Science student 🎓 with a strong academic foundation and solid problem-solving skills.  
-I focus on writing structured, clean code and understanding the logic behind systems rather than just building interfaces.  
-Most of my work revolves around core Computer Science subjects and practical implementation.
+<a href="https://www.linkedin.com/in/amjad-baali/" target="_blank">
+  <img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
+</a>
 
 <br/>
 <br/>
+
+I am a Final-Year Computer Science student 🎓 with a strong foundation in core Computer Science subjects.  
+I focus on structured problem-solving, clean implementation, and understanding system logic deeply.  
+Most of my work is centered around Data Structures, Database Systems, and fundamental programming concepts.
+
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
-- 🎓 &nbsp; I’m currently in my final year of Computer Science
-- 💻 &nbsp; I have strong knowledge in Data Structures and Database Systems
-- 🛠 &nbsp; I’ve worked on multiple academic projects in:
-  - Data Structures  
-  - Database Systems  
-  - HTML-based Web Development  
-- 🌱 &nbsp; I’m continuously improving my problem-solving and algorithmic thinking skills
-- 📚 &nbsp; Interested in backend logic, system structure, and software fundamentals
-- 💬 &nbsp; Open to collaboration on academic and entry-level development projects
+- 🎓 &nbsp; I’m currently in my final year of Computer Science  
+- 💻 &nbsp; Strong background in Data Structures and Database Systems  
+- 🛠 &nbsp; Worked on practical projects in Data Structures, Databases, and HTML  
+- 🌱 &nbsp; Continuously improving my algorithmic thinking and backend logic skills  
+- 💬 &nbsp; Open to collaboration on academic or entry-level development projects  
+- 📫 &nbsp; Feel free to connect with me on LinkedIn  
 
 <br>
 
-### 🔨 Languages and Technologies:
+### 🔨 Languages and Tools:
 
-<a>Java</a> •
-<a>C</a> •
-<a>Python</a> •
-<a>Assembly</a> •
-<a>HTML</a> •
-<a>Data Structures</a> •
-<a>Database Systems</a>
+<a href="#" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="Assembly" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="#" target="_blank"><img align="left" alt="Database" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 
 <br>
+<br>
+<br>
 
-### 🛠️ Academic Projects
+### 🛠️ My Projects
 
-- Implemented core data structures (Stacks, Queues, Linked Lists, Trees)
-- Designed relational databases with SQL queries and normalization concepts
-- Built structured semantic HTML web pages
-- Applied algorithmic problem-solving techniques in C and Java
+🔹 **Data Structures Implementation**  
+- Implemented Stacks, Queues, Linked Lists, Trees using Java and C  
+- Applied algorithmic problem-solving concepts  
+
+🔹 **Database System Project**  
+- Designed relational database schema  
+- Implemented SQL queries, joins, normalization  
+
+🔹 **HTML Web Project**  
+- Built structured semantic web pages  
+- Applied clean layout and structured markup  
 
 <br>
 
 ### 📈 Career Objective
 
-Aspiring software developer seeking opportunities to apply strong foundational Computer Science knowledge in structured development environments and continue growing technically and professionally.
+Aspiring Software Developer seeking opportunities to apply strong foundational Computer Science knowledge in structured development environments and contribute to impactful technical projects.
