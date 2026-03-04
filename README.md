@@ -49,15 +49,6 @@ Most of my work is centered around Data Structures, Database Systems, and fundam
   src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" />
 </a>
 
-<a href="#" target="_blank">
-  <img align="left" alt="mysql" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" alt="linux" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" />
-</a>
 
 <br>
 <br>
