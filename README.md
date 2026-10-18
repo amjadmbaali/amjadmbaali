@@ -7,89 +7,43 @@
 <br/>
 <br/>
 
-I am a Final-Year Computer Science student 🎓 with a strong foundation in core Computer Science subjects.  
-I focus on structured problem-solving, clean implementation, and understanding system logic deeply.  
-Most of my work is centered around Data Structures, Database Systems, and fundamental programming concepts.
+I'm a final-year Computer Science student at **Yanbu Industrial College**, on the web development track.
+I enjoy building full-stack web applications, and the part I like most is the **database**: designing schemas, writing SQL and making sure the data stays consistent.
 
 <br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
+
+### 🧐 More About Me
+
+- 🎓 &nbsp; Final-year Computer Science student, graduating in 2027
+- 🗄️ &nbsp; Most interested in database design and backend development
+- 🌐 &nbsp; Built web apps with PHP, Java (JSP) and MySQL
+- 📐 &nbsp; Enjoy math and problem-solving
+- 🔍 &nbsp; Looking for a co-op training opportunity starting January 2027
+- 📫 &nbsp; Feel free to connect with me on LinkedIn
+
+<br clear="right"/>
+
+### 🔨 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=java,php,python,c,html,css,js,mysql,git,github,vscode" alt="Languages and tools" />
+
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+### 🛠️ Featured Projects
 
-### 🧐 More About Me:
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Student Services Platform**](https://github.com/amjadmbaali/CS378-Project) | Office-hour appointment booking and staff notifications. I designed the database. | Java, JSP, MySQL |
+| [**Salon Reservation Database**](https://github.com/amjadmbaali/CS311-Project) | Full database design: ERD, normalization to 3NF, constraints and triggers | MySQL |
+| [**Student Feedback System**](https://github.com/amjadmbaali/student-feedback-system) | Feedback portal with student and admin roles, PDO and CSRF protection | PHP, MySQL, JavaScript |
+| [**YIC To-Do System**](https://github.com/amjadmbaali/CS382-final-Project) | Task manager with live reminders and weekly progress. I built the login and sign-up system. | PHP, MySQL, jQuery |
+| [**Smart Driver Assistant**](https://github.com/amjadmbaali/Driver_Assistant) | Computer vision system. I trained a YOLOv8 model to detect traffic signs and lights. | Python, YOLOv8, OpenCV |
+| [**Rock, Paper, Scissors**](https://github.com/amjadmbaali/rock-paper-scissors-python) | Command-line game with score tracking | Python |
 
-- 🎓 &nbsp; I’m currently in my last semester of Computer Science  
-- 💻 &nbsp; Strong background in Data Structures and Database Systems  
-- 🛠 &nbsp; Worked on practical projects in Data Structures, Databases, and HTML  
-- 🌱 &nbsp; Continuously improving my algorithmic thinking and backend logic skills  
-- 💬 &nbsp; Open to collaboration on academic or entry-level development projects  
-- 📫 &nbsp; Feel free to connect with me on LinkedIn  
-
-<br>
-
-### 🔨 Languages and Tools:
-
-<a href="#" target="_blank">
-  <img align="left" alt="java" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" alt="python" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" alt="c" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" alt="html" height="42px"
-  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" />
-</a>
-
-
-<br>
-<br>
-<br>
-<br>
-
-### 🛠️ My Projects
-
-🔹 **Data Structures Implementation**  
-- Implemented Stacks, Queues, Linked Lists, Trees using Java and C  
-- Applied algorithmic problem-solving concepts  
-
-🔹 **Database System Project**  
-- Designed relational database schema  
-- Implemented SQL queries, joins, normalization  
-
-🔹 **HTML Web Project**  
-- Built structured semantic web pages  
-- Applied clean layout and structured markup  
-
-<br>
+<br/>
 
 ### 📈 Career Objective
 
-Aspiring Software Developer seeking opportunities to apply strong foundational Computer Science knowledge in structured development environments and contribute to impactful technical projects.
-### 🛠️ My Projects
-
-🔹 **Data Structures Implementation**  
-- Implemented Stacks, Queues, Linked Lists, Trees using Java and C  
-- Applied algorithmic problem-solving concepts  
-
-🔹 **Database System Project**  
-- Designed relational database schema  
-- Implemented SQL queries, joins, normalization  
-
-🔹 **HTML Web Project**  
-- Built structured semantic web pages  
-- Applied clean layout and structured markup  
-
-<br>
-
-### 📈 Career Objective
-
-Aspiring Software Developer seeking opportunities to apply strong foundational Computer Science knowledge in structured development environments and contribute to impactful technical projects.
+Aspiring software developer who wants to grow in backend and database development, and contribute to real projects in a professional team.
