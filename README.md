@@ -18,7 +18,7 @@ Most of my work is centered around Data Structures, Database Systems, and fundam
 
 ### 🧐 More About Me:
 
-- 🎓 &nbsp; I’m currently in my final year of Computer Science  
+- 🎓 &nbsp; I’m currently in my last semester of Computer Science  
 - 💻 &nbsp; Strong background in Data Structures and Database Systems  
 - 🛠 &nbsp; Worked on practical projects in Data Structures, Databases, and HTML  
 - 🌱 &nbsp; Continuously improving my algorithmic thinking and backend logic skills  
